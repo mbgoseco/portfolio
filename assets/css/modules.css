@@ -1930,10 +1930,6 @@ button,
 
 /* Main */
 
-#main {
-  margin-left: 375px;
-}
-
   #main > section {
     margin: 0;
     overflow: hidden;
@@ -1967,14 +1963,14 @@ button,
         }
 
     #main > section.cover {
-      padding: 10em 0;
+      padding: 2em 0;
       background-size: cover;
       background-position: center center;
     }
 
     #main > section.one {
       position: relative;
-      height: 28em;
+      /* height: 34em; */
       /* background-color: #81918E; */
       /* background-image: url("../../images/lake.jpg"); */
     }
