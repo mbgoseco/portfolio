@@ -1973,8 +1973,10 @@ button,
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/lake.jpg");
+      position: relative;
+      height: 28em;
+      /* background-color: #81918E; */
+      /* background-image: url("../../images/lake.jpg"); */
     }
 
     #main > section.two {
